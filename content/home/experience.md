@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Student Instructor
-    subtitle: Statistics 306: Introduction to Statistical Computing
+    subtitle: Introduction to Statistical Computing (STATS 306)
     company: University of Michigan
     company_url: ''
     company_logo:
