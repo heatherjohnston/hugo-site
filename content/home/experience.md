@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Student Instructor
-    subtitle: Statistics 306: Introduction to Statistical Computing
-    company: University of Michigan
-    company_url: ''
-    company_logo:
-    location: Michigan
-    date_start: '2021-01'
-    date_end: '2021-04'
-    description: |2-
+ - title: Graduate Student Instructor
+   subtitle: Statistics 306: Introduction to Statistical Computing
+   company: University of Michigan
+   company_url: ''
+   company_logo:
+   location: Michigan
+   date_start: '2021-01'
+   date_end: '2021-04'
+   description: |2-
         * Provided weekly lab sessions, including preparing instructional materials and collaborating with instruction team
         * Held regular office hours to support students
         * Graded assignments and offering feedback to students
