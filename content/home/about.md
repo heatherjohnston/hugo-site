@@ -10,7 +10,7 @@ design:
   background:
     color: "#fff8e7"
 ---
-I am a Rackham Merit Fellow and graduate student in Applied Statistics at the University of Michigan. I currently serve as a Graduate Student Instructor for Statistics 306: Introduction to Statistical Computing. 
+I am a Rackham Merit Fellow and graduate student in Applied Statistics at the University of Michigan. I currently serve as a Graduate Student Instructor for Statistics 306: Introduction to Statistical Computing. In addition, my team and I are conducting research on natural language processing with applications in using Twitter data to understand attitudes toward COVID-19 vaccines.
 
 My core values include environmental justice, social justice, and equity. I have taken inspiration from the excellent work of philosophers like Peter Singer, and seek opportunities in the spaces of global health, climate change mitigation, and effective altruism. 
 
