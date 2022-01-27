@@ -28,8 +28,8 @@ experience:
     company_url: ''
     company_logo:
     location: Michigan
-    date_start: '2021-01'
-    date_end: '2021-04'
+    date_start: '2022-01-01'
+    date_end: '2022-04-30'
     description: |2-
         * Provided weekly lab sessions, including preparing instructional materials and collaborating with instruction team
         * Held regular office hours to support students
@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo:
     location: Remote
-    date_start: '2020-07'
-    date_end: '2020-08'
+    date_start: '2020-07-01'
+    date_end: '2020-08-30'
     description: |2-
         * Taught elementary and middle school students math lessons, with a focus on fostering high levels of engagement
         * Adapted curricula for different learners, including developing supplemental materials
@@ -52,8 +52,8 @@ experience:
     company_url: ''
     company_logo:
     location: Massachusetts
-    date_start: '2017-08'
-    date_end: '2019-05'
+    date_start: '2017-08-01'
+    date_end: '2019-05-30'
     description: |2-
         * Graded Intermediate Statistics, Applied Regression Methods, and Probability Assignments
         * Held office hours to support students with interpreting statistical models and programming in R
@@ -63,8 +63,8 @@ experience:
     company_url: ''
     company_logo:
     location: Massachusetts
-    date_start: '2017-06'
-    date_end: '2019-05'
+    date_start: '2017-06-01'
+    date_end: '2019-05-30'
     description: |2-
         * Performed queries to obtain data for budget management
         * Cleaned data and managed resource records using Excel and library catalogue software
@@ -75,8 +75,8 @@ experience:
     company_url: ''
     company_logo:
     location: Guatemala
-    date_start: '2018-06'
-    date_end: '2018-08'
+    date_start: '2018-06-01'
+    date_end: '2018-08-30'
     description: |2-
         * Designed, developed, and implemented digital library to make resources available remotely
         * Provided enrichment lessons for students ages 5-16 in technology, math, literacy, and English           
